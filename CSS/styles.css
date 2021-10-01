@@ -1,0 +1,48 @@
+body {
+  background-color: #FFF8E5 ;
+}
+
+hr {
+
+  border-bottom-style: dotted;
+  border-style: dotted none none none;
+  border-top-width: 5px;
+  border-color: #FFB344;
+  width: 5%;
+
+}
+
+h1 {
+  color: #E05D5D;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+h2 {
+  color: #E05D5D;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+h3 {
+  color: #E05D5D;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+p {
+  color: #00A19D;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+ul {
+  color: #00A19D;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+ol {
+  color: #00A19D;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+table {
+  color: #00A19D;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
